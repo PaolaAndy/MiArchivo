@@ -5,5 +5,5 @@
 ### Study Jam
 
 <p align ="center">
-![Animacion](C:\Users\Paola Poma\Desktop\2 demo\imagen.jpg)
+![Animacion](2 demo\imagen.jpg)
 </p>
