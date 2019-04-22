@@ -4,6 +4,6 @@
 
 ### Study Jam
 
-<center>
+<p align ="center">
 ![Animacion](imagen.jpg)
-</center>
+</p>
