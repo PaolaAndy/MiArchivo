@@ -5,5 +5,12 @@
 ### Study Jam
 
 <p align ="center">
-![Animacion](2 demo\imagen.jpg)
+![Animacion](imagen.jpg)
 </p>
+
+1. hola mundo
+1. hola mundo
+1. hola mundo
+1. hola mundo
+
+1. hola mundo
